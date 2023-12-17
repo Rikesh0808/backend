@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "647306ce3f2a539a2fba27f5"
+  },
+  "name": "I dont want to die poor",
+  "description": "In Michael Arceneaux sophomore novel I Don't Want to Die Poor he writes in unflinching details what life is like living under a crushing student loan debt. In his essays he details how and why he decided to take a loan and how he's been spending the prime years of his life trying to pay it back.",
+  "price": 1500,
+  "offerPrice": "1600",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/zmr9nrn4sg2o65xff3ht",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685259958/products/zmr9nrn4sg2o65xff3ht.jpg",
+      "_id": {
+        "$oid": "647306ce3f2a539a2fba27f6"
+      }
+    }
+  ],
+  "category": "Classics",
+  "stock": 15,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647307333f2a539a2fba2801"
+  },
+  "name": "The Hobbits",
+  "description": "The Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the hobbit of the title, who joins the wizard Gandalf and thirteen dwarves that make up Thorin Oakenshield's Company, on a quest to reclaim the dwarves' home and treasure from the dragon Smaug.\r\n",
+  "price": 500,
+  "offerPrice": "700",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/efjlpoguwyljzyr4q72y",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685260060/products/efjlpoguwyljzyr4q72y.jpg",
+      "_id": {
+        "$oid": "647307333f2a539a2fba2802"
+      }
+    }
+  ],
+  "category": "Fantasy",
+  "stock": 7,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647307e73f2a539a2fba2858"
+  },
+  "name": "test",
+  "description": "The Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the hobbit of the title, who joins the wizard Gandalf and thirteen dwarves that make up Thorin Oakenshield's Company, on a quest to reclaim the dwarves' home and treasure from the dragon Smaug.\r\n",
+  "price": 999,
+  "offerPrice": "1999",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hr63axwxovjormtazreh",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685260240/products/hr63axwxovjormtazreh.jpg",
+      "_id": {
+        "$oid": "647307e73f2a539a2fba2859"
+      }
+    }
+  ],
+  "category": "Horror",
+  "stock": 8,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647308153f2a539a2fba2866"
+  },
+  "name": "test2",
+  "description": "The Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the hobbit of the title, who joins the wizard Gandalf and thirteen dwarves that make up Thorin Oakenshield's Company, on a quest to reclaim the dwarves' home and treasure from the dragon Smaug.\r\n",
+  "price": 100,
+  "offerPrice": "123",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/yn9jiecqe5yvklaj1jsz",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685260286/products/yn9jiecqe5yvklaj1jsz.jpg",
+      "_id": {
+        "$oid": "647308153f2a539a2fba2867"
+      }
+    }
+  ],
+  "category": "Horror",
+  "stock": 111,
+  "NoOfReviews": 1,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "646ebcac3bedcfa996deadc0"
+      },
+      "name": "rikesh",
+      "rating": 5,
+      "comment": "Its a good book",
+      "time": {
+        "$date": "2023-05-31T01:34:36.131Z"
+      },
+      "_id": {
+        "$oid": "6476a63fbfd2ad572089dfc9"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "647308453f2a539a2fba2875"
+  },
+  "name": "test3",
+  "description": "The Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the hobbit of the title, who joins the wizard Gandalf and thirteen dwarves that make up Thorin Oakenshield's Company, on a quest to reclaim the dwarves' home and treasure from the dragon Smaug.\r\n",
+  "price": 4000,
+  "offerPrice": "4567",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/dwtdg6nsxqks0x5larr3",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685260334/products/dwtdg6nsxqks0x5larr3.jpg",
+      "_id": {
+        "$oid": "647308453f2a539a2fba2876"
+      }
+    }
+  ],
+  "category": "Romantic",
+  "stock": 8,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6473086b3f2a539a2fba2885"
+  },
+  "name": "test00",
+  "description": "The Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the hobbit of the title, who joins the wizard Gandalf and thirteen dwarves that make up Thorin Oakenshield's Company, on a quest to reclaim the dwarves' home and treasure from the dragon Smaug.\r\n",
+  "price": 3000,
+  "offerPrice": "4567",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/gomqnejut2iada73bm0s",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685260371/products/gomqnejut2iada73bm0s.jpg",
+      "_id": {
+        "$oid": "6473086b3f2a539a2fba2886"
+      }
+    }
+  ],
+  "category": "Thriller",
+  "stock": 99,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-28T06:01:34.601Z"
+  },
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64775f0b370ee51520cafe3f"
+  },
+  "name": "book",
+  "description": "this is a test",
+  "price": 500,
+  "offerPrice": "",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/blf2dzdpng8xvd8kkvvf",
+      "url": "https://res.cloudinary.com/softwarica-college-of-it-and-ecommerce/image/upload/v1685544689/products/blf2dzdpng8xvd8kkvvf.jpg",
+      "_id": {
+        "$oid": "64775f0b370ee51520cafe40"
+      }
+    }
+  ],
+  "category": "Action and Adventure",
+  "stock": 10,
+  "NoOfReviews": 0,
+  "user": {
+    "$oid": "646ebcac3bedcfa996deadc0"
+  },
+  "createdAt": {
+    "$date": "2023-05-31T14:42:22.928Z"
+  },
+  "reviews": [],
+  "__v": 0
+}]
